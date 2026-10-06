@@ -320,6 +320,7 @@ Contributions welcome! See [CONTRIBUTING.md](CONTRIBUTING.md).
 | [itch.io Butler](https://itch.io/docs/butler/) | Free CLI tool | Push builds to itch.io from command line or CI |
 | [GitHub Pages](https://pages.github.com/) | Free | Host HTML5 games for free directly from a GitHub repo |
 | [Netlify](https://www.netlify.com/) | 🟢 Free Tier | Fast static site hosting; great for HTML5 game deployment |
+| [Bounty Board Arcade](https://www.bountyboard.gg/arcade) | 🟢 Free | Publish HTML5/WebGL games, with optional SDK leaderboards and cloud saves for hosted builds |
 
 ---
 
