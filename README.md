@@ -333,6 +333,7 @@ Contributions welcome! See [CONTRIBUTING.md](CONTRIBUTING.md).
 | [Spine (trial)](https://esotericsoftware.com/) | 🟢 Free Trial | Industry-standard 2D skeletal animation; paid but trial is functional |
 | [DragonBones](https://dragonbones.github.io/) | 🔵 MIT | Free 2D skeletal animation tool |
 | [Leshy SpriteSheet Tool](https://www.leshylabs.com/apps/sstool/) | 🟢 Free | Browser-based sprite sheet cutter and packer |
+| [Eclipse Guide Animation Timing Calculator](https://eclipseanimator.dev/tools/animation-timing/) | 🟢 Free | Convert frames, seconds and non-drop-frame timecode at integer frame rates in the browser. |
 | [Tilesetter](https://www.tilesetter.org/) | 🟢 Free Tier | Auto-tiling generator |
 | [Excalidraw](https://excalidraw.com/) | 🔵 MIT | ⭐ Browser-based whiteboard; great for GDD sketches and flowcharts |
 | [draw.io / diagrams.net](https://www.diagrams.net/) | 🔵 Apache 2.0 | Free diagramming tool; good for system design docs |
