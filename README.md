@@ -99,6 +99,7 @@ Contributions welcome! See [CONTRIBUTING.md](CONTRIBUTING.md).
 | [GrafX2](http://grafx2.chez.com/) | 🔵 GPL | Oldschool bitmap paint program; great palette tools |
 | [Piskel](https://www.piskelapp.com/) | 🔵 Apache 2.0 | ⭐ Free browser-based pixel art and animation editor; no install needed |
 | [LoSpec Palette List](https://lospec.com/palette-list) | 🟢 Free | Huge database of curated pixel art color palettes |
+| [PixelArtHive](https://pixelarthive.com/) | 🟢 Free | Converts reference images into pixel art and enlarges existing sprites without smoothing them, with local browser processing. |
 
 ---
 
